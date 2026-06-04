@@ -1,0 +1,13 @@
+id,titulo,categoria,total_reproducoes,faixa_audiencia
+1,História em Cena,historia,87500,NULL
+2,Códigos do Dia,tecnologia,42300,NULL
+3,Café com Filosofia,filosofia,650,NULL
+4,Mentes Curiosas,ciencia,128400,NULL
+5,Vida em Versos,literatura,890,NULL
+6,Sintonia Independente,musica,15600,NULL
+7,Crônicas Urbanas,cronica,310,NULL
+8,Mercados em Movimento,economia,33200,NULL
+9,Esporte sem Filtro,esportes,72800,NULL
+10,Mundo dos Games,games,54100,NULL
+11,Saúde na Prática,saude,21900,NULL
+12,Vozes da Floresta,natureza,4500,NULL

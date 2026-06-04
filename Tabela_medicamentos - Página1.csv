@@ -1,0 +1,11 @@
+id,nome,categoria,preco,fabricante
+1,Paracetamol 750mg,analgesicos,8.50,FarmaBR
+2,Ibuprofeno 600mg,anti-inflamatorios,14.20,LabSul
+3,Amoxicilina 500mg,antibioticos,22.90,MediCorp
+4,Losartana 50mg,genericos,11.40,GenFarma
+5,Metformina 850mg,genericos,9.80,GenFarma
+6,Omeprazol 20mg,genericos,7.30,LabSul
+7,Atenolol 25mg,genericos,6.90,GenFarma
+8,Sinvastatina 20mg,genericos,12.10,MediCorp
+9,Vitamina C 1g,vitaminas,18.50,FarmaBR
+10,Polivitamínico Adulto,vitaminas,34.90,FarmaBR

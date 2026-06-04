@@ -1,0 +1,12 @@
+id,podcast_id,titulo,data_lancamento,status
+101,1,A Queda do Império Romano,2025-08-10,publicado
+102,1,Mulheres na Revolução Francesa,2025-09-12,publicado
+103,2,Introdução ao Rust,2025-10-05,publicado
+104,2,Padrões de Projeto na Prática,2025-11-20,rascunho
+105,3,Kant e a Razão Pura,2025-06-15,publicado
+287,6,Como começar no jardinagem,2026-03-22,publicado
+288,7,Esquinas que Cantam,2026-04-01,rascunho
+289,8,Inflação e Juros em 2026,2026-04-10,rascunho
+290,11,Sono e Produtividade,2027-08-15,rascunho
+291,4,Como o Cérebro Aprende,2026-02-18,arquivado
+292,9,Vestiário Aberto,2026-04-05,rascunho
