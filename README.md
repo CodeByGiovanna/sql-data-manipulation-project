@@ -19,25 +19,25 @@ The project focuses on fundamental database operations and data management techn
 - Database Maintenance
 
 ---
-
 ## 📂 Project Structure
 
+```text
+sql-data-manipulation-project
+│
+├── datasets
+│   ├── Tabela_fornecedores.csv
+│   ├── Tabela_medicamentos.csv
+│   ├── Tabela_lotes_estoque.csv
+│   ├── Tabela_promocoes_temporarias.csv
+│   ├── Tabela_podcasts.csv
+│   ├── Tabela_episodios.csv
+│   ├── Tabela_inscricoes.csv
+│   └── Tabela_recomendacoes_temporarias.csv
+│
+├── sql_data_manipulation_project.ipynb
+│
+└── README.md
 ```
-datasets/
-├── suppliers
-├── medicines
-├── inventory_batches
-├── temporary_promotions
-├── podcasts
-├── episodes
-├── subscriptions
-└── temporary_recommendations
-
-exercises/
-├── system_a.sql
-└── system_b.sql
-```
-
 ---
 
 ## 🛠 Technologies
