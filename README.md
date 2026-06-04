@@ -84,7 +84,7 @@ The exercises simulate real-world database administration and maintenance scenar
 
 ## 👨‍💻 Author
 
-Diva
+Giovanna de Oliveira
 
 Analysis and Systems Development 
 
